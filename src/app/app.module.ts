@@ -6,7 +6,8 @@ import { ArticleComponent } from './article/article.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ArticleComponent
   ],
   imports: [
     BrowserModule
